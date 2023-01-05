@@ -1,0 +1,2 @@
+# Poradnik
+jakiś opis randomowy
